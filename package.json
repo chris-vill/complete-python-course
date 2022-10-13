@@ -1,0 +1,19 @@
+{
+  "name": "complete-python-course",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r  <img src=\"assets/course-image.png\" alt=\"Complete Python Course | Learn Python by Doing in 2022 (Udemy banner image)\"></a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "p1": "python ./my_milestone_projects/first_milestone_project/app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-vill/complete-python-course.git"
+  },
+  "author": "Christopher Villaran <cv.career.github.v0.pgs9v@simplelogin.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-vill/complete-python-course/issues"
+  },
+  "homepage": "https://github.com/chris-vill/complete-python-course#readme"
+}
